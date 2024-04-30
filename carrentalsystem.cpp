@@ -22,7 +22,7 @@ struct Cars {
 
    string Name[100];
    //int Natio_ID[12];
-   string Natio_ID[100];
+   string Natio_ID[90];
    int payment_acc[100] ;
    }lease;
 
